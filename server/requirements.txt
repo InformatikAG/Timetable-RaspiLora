@@ -1,0 +1,4 @@
+pyserial-asyncio
+Pillow
+webuntis
+pygame
